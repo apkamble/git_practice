@@ -5,4 +5,5 @@ This is the 3rd line in the text file
 Now this is part of a new branch
 
 This is the first commit for the rebase op
+This is the second commit for the rebase op
 
