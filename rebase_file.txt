@@ -1,4 +1,0 @@
-This is the first line in the 
-
-
-This line was rebased in master
