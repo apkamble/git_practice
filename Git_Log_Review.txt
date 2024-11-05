@@ -3,3 +3,6 @@ This is the second line in the text file
 This is the 3rd line in the text file
 
 Now this is part of a new branch
+
+This is the first commit for the rebase op
+
