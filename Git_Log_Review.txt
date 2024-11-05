@@ -1,3 +1,5 @@
-This is the first line in the is text file 
+This is the first line in the is text file. Edit this line on github for rebase op
 This is the second line in the text file
 This is the 3rd line in the text file
+
+Now this is part of a new branch
